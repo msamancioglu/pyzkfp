@@ -14,9 +14,9 @@ This library can connect to `SLK20R` and ZK series, including `ZK9500`, `ZK6500`
  
 ## Installation
 - You have to first install the ZKFinger SDK from the offical website.
-- Then install this library via pip:
+- Then install this library in editable mode from this repo:
     ```bash
-    pip install pyzkfp
+    pip install -e git+https://github.com/msamancioglu/pyzkfp.git@main#egg=pyzkfp
     ```
 
 ## Features

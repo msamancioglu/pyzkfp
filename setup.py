@@ -17,7 +17,7 @@ setup(
     author='Amjed Alqasemi',
     url='https://github.com/alqasemy2020/pyzkfp',
     author_email='alqasemy2020@gmail.com',
-    install_requires=['pythonnet', 'PIL'],
+    install_requires=['pythonnet==3.0.3', 'pillow==10.1.0'],
     keywords=['python', 'fingerprint', 'scanner', 'wrapper', 'library', 'zkteco', 'zkfinger', 'zkfp', 'zklib', 'zkaccess', 'zktime'],
     classifiers=[
         "Programming Language :: Python :: 3",
